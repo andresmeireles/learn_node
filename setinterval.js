@@ -1,0 +1,1 @@
+setInterval(() => console.log('hello man'), 1000);
